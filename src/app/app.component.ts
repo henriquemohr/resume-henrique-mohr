@@ -8,7 +8,7 @@ const resumeJS = '/assets/js/resume.min.js';
     templateUrl: './app.component.html',
     styleUrls: ['./app.component.css']
 })
-export class AppComponent implements AfterViewInit {
+export class AppComponent {
 
     private loadExternalJS: Promise<any>;
 
@@ -23,7 +23,6 @@ export class AppComponent implements AfterViewInit {
     }
 
     private loadScript(): void {
-        console.log('load external js script ...');
         const node = document.createElement('script');
         node.src = resumeJS;
         node.type = 'text/javascript';
