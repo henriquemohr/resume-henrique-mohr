@@ -1,0 +1,18 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+    <div class="my-auto">
+        <h2 class="mb-5">Áreas de Interesse</h2>
+        <div class="subheading mb-3">Linguagens de Programação &amp; Ferramentas</div>
+        <ul class="list-inline list-icons">
+            <li class="list-inline-item" *ngFor="let icon of deviconArr">
+                <i class="devicons {{icon}}"></i>
+            </li>
+        </ul>
+        <div class="subheading mb-3">Workflow</div>
+        <ul class="fa-ul mb-0">
+            <li *ngFor="let workflow of workflowArr">
+                <i class="fa-li fa fa-check"></i>
+                {{workflow}}
+            </li>
+        </ul>
+    </div>
+</section>
