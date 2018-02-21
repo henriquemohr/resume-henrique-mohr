@@ -24,7 +24,7 @@ export class ExperienceComponent implements OnInit {
             company: 'Uzy Tecnologia , Novo Hamburgo - RS',
             companyWebSite: '',
             // tslint:disable-next-line:max-line-length
-            duties: 'Atuo como o coordenador da equipe de desenvolvimento realizando a construção de especificações técnicas baseadas nas demandas e necessidades do cliente. Também participo do desenvolvimento de projetos para web e desktop utilizando a plataforma Microsoft .Net (C#, ASP.NET MVC, Razor, Entity Framework, WPF, WCF), JavaScript, JQuery, Microsoft SQL Server, Web Services (REST e SOAP) e Delphi.' ,
+            duties: 'Atuo como o coordenador da equipe de desenvolvimento realizando a construção de especificações técnicas baseadas nas demandas e necessidades do cliente. Também participo do desenvolvimento de projetos para web e desktop utilizando a plataforma Microsoft .Net (C#, ASP.NET MVC, Razor, Entity Framework, WPF, WCF), JavaScript, JQuery, Microsoft SQL Server, Web Services (REST e SOAP) e Delphi.',
             deviconArr: [
               'devicons-scrum',
               'devicons-git',
@@ -46,7 +46,7 @@ export class ExperienceComponent implements OnInit {
           company: 'Novo Hamburgo, São Leopoldo - RS',
           companyWebSite: '',
           // tslint:disable-next-line:max-line-length
-          duties: ' Na empresa Tino Tech realizei trabalho como analista responsável pela criação de módulo para gestão de cartões coorporativos para a empresa AES Eletropaulo. Entre as atividades executadas, destacan-se: Interpretação dos requisitos, criação dos planos de testes, coleta das evidências de testes, modelagem de dados e desenvolvimento em C#; Já para a empresa Uzy Tecnologia, na qual trabalho atualmente, realizei a contrução de um módulo em C# para o envio de informações fiscais a SEFAZ de Santa Cataria. O módulo é reponsável por interpretar um XML com informações fiscais, validar, assinar digitalmente e enviar via webservice a SEFAZ.',
+          duties: 'Na empresa Tino Tech realizei trabalho como analista responsável pela criação de módulo para gestão de cartões coorporativos para a empresa AES Eletropaulo. Entre as atividades executadas, destacam-se:  Interpretação dos requisitos, criação dos planos de testes, coleta das evidências de testes, modelagem de dados e desenvolvimento em C#. Para a empresa Uzy Tecnologia, na qual trabalho atualmente, realizei a construção de um módulo em C# para o envio de informações fiscais a SEFAZ de Santa Cataria. O módulo é responsável por interpretar um XML com informações fiscais, validar, assinar digitalmente e enviar via webservice a SEFAZ.',
           deviconArr: [
             'devicons-code',
             'devicons-dotnet',
@@ -84,7 +84,7 @@ export class ExperienceComponent implements OnInit {
           company: 'Safetech, Sapiranga - RS',
           companyWebSite: 'http://www.safetech.inf.br',
           // tslint:disable-next-line:max-line-length
-          duties: ' Liderei a equipe de desenvolvimento sendo o analista responsável pela homologação do PAF-ECF (Programa Aplicativo Fiscal) no sistema de PDV (Ponto de Venda), realizando a análise dos requisitos e o gerenciamento das alterações para atendê-los.',
+          duties: 'Auxiliei no desenvolvimento e manutenção de sistema de PDV (Ponto de Venda), combinando características como certificação PAF-ECF (Programa Aplicativo Fiscal - Emissor de Cupom Fiscal) e transferência de fundos (TEF). Utilizei Java com o framework Grails e banco de dados ORACLE.',
           deviconArr: [
             'devicons-scrum',
             'devicons-git',
@@ -105,7 +105,7 @@ export class ExperienceComponent implements OnInit {
             'devicons-database'
           ],
           // tslint:disable-next-line:max-line-length
-          duties: 'Atuei na manutenção e desenvolvimento de sistema de PDV (Ponto de Venda), combinando características como certificação PAF-ECF, transferência de fundos discado e dedicado (TEF), entre outros sendo este desenvolvido em Delphi 5',
+          duties: 'Atuei na manutenção e desenvolvimento de sistema de PDV (Ponto de Venda), combinando características como certificação PAF-ECF, transferência de fundos discado e dedicado (TEF), entre outros sendo este desenvolvido em Delphi 5.',
           startDate: 'Outubro/2009',
           endDate: 'Setembro/2013'
         },
@@ -118,7 +118,7 @@ export class ExperienceComponent implements OnInit {
             'devicons-database'
           ],
           // tslint:disable-next-line:max-line-length
-          duties: 'Participei da manutenção e desenvolvimento de sistemas para o segmento da saúde, com produtos específicos para cada tipo de negócio: hospitais, clínicas de diagnóstico por imagem e laboratórios.',
+          duties: 'Participei da manutenção e desenvolvimento de sistemas em Delphi 7 com banco de dados ORACLE para o segmento da saúde, com produtos específicos para cada tipo de negócio: hospitais, clínicas de diagnóstico por imagem e laboratórios.',
           startDate: 'Agosto/2008',
           endDate: 'Setembro/2009'
         }

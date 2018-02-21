@@ -46,7 +46,7 @@ export class AboutComponent implements OnInit {
     descriptions: [
       {
         line:
-          'Apaixonado por tecnologia com 9 anos de experiência em análise e ' +
+          'Apaixonado por tecnologia, com 9 anos de experiência em análise e ' +
           'desenvolvimento de projetos para a plataforma cloud/web e desktop. ' +
           'Sou entusiasta de Métodos Ágeis, Gestão Moderna e Melhoria Contínua. ' +
           'Aberto a novas oportunidades e desafios buscando um ambiente ágil e ' +
