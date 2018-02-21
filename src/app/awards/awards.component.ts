@@ -9,7 +9,7 @@ import {Component, OnInit, ViewEncapsulation} from '@angular/core';
 export class AwardsComponent implements OnInit {
 
     public awardArr: Array<string> = [
-      'Angular 2.x e 4.x e TypeScript - <Loiane.training/> - Janeiro/2018 (Em Andamento)',
+      'Angular 2.x e 4.x e TypeScript - <Loiane.training/> - Janeiro/2018',
       'Brasil JS Conf 2017 - Porto Alegre - Agosto/2017',
       'Maratona Xamarin - Microsoft - Março/2017',
       'Meetup Vale dos Desenvolvedores (4a. edição) - Universidade Feevale - 25/03/2017',

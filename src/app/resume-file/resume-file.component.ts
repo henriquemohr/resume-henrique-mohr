@@ -9,7 +9,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 export class ResumeFileComponent implements OnInit {
 
   public fileURL: String = 'https://www.dropbox.com/s/tk15888inyskjyu/CV_HenriqueMohr.pdf?dl=0';
-  public lastUpdate: String = '20 de Fevereiro de 2018';
+  public lastUpdate: String = '21 de Fevereiro de 2018';
 
   constructor() { }
 

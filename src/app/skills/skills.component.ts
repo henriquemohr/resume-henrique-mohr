@@ -24,14 +24,14 @@ export class SkillsComponent implements OnInit {
 
     workflowArr: Array<string> = [
         'Análise, gerenciamento e implantação de projetos;',
-        'Qualidade de Código (Teste Unitário, Revisão de Código)',
-        'Design orientado a objetos',
-        'Desenvolvimento C# .Net Framework e Asp.Net MVC',
-        'Web Services (REST, SOAP)',
-        'Oracle, SQL Server, SQL, PL/SQL',
-        'Ferramentas de Controle de Versão (GIT, SVN, TFS -Team Foundation Server)',
-        'Amazon AWS e Amazon S3 - Simple Storage Service',
-        'Desenvolvimento Ágil, Metodologia Scrum, Kanban, Burndown, Planning Poker',
+        'Desenvolvimento Ágil, Metodologia Scrum, Kanban, Burndown, Planning Poker;',
+        'Qualidade de Código (Teste Unitário, Revisão de Código);',
+        'Design orientado a objetos, Padrões de Projeto;',
+        'Desenvolvimento C# .Net Framework e Asp.Net MVC;',
+        'Web Services (REST, SOAP);',
+        'Oracle, SQL Server, SQL, PL/SQL;',
+        'Ferramentas de Controle de Versão (GIT, SVN, TFS -Team Foundation Server);',
+        'Amazon AWS e Amazon S3 - Simple Storage Service.'
     ];
 
     constructor() {
