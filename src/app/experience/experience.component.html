@@ -11,6 +11,11 @@
                 <p>
                   {{experience.duties}}
                 </p>
+                <ul class="list-inline list-icons">
+                  <li class="list-inline-item" *ngFor="let icon of experience.deviconArr">
+                      <i class="devicons {{icon}}"></i>
+                  </li>
+                </ul>
             </div>
             <div class="resume-date text-md-right">
                 <span class="text-primary">{{experience.startDate}} - {{experience.endDate}}</span>

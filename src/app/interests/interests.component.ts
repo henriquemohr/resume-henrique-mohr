@@ -25,7 +25,8 @@ export class InterestsComponent implements OnInit {
       'devicons-jenkins',
       'devicons-mongodb',
       'devicons-ionic',
-      'devicons-docker'
+      'devicons-docker',
+      'devicons-rasberry'
     ];
 
     workflowArr: Array<string> = [
